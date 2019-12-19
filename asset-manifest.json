@@ -1,18 +1,18 @@
 {
   "files": {
-    "runtime-main.chunk.js": "/pokedex.github.ioruntime-main.chunk.js?dacff3b0",
-    "main.css": "/pokedex.github.iomain.chunk.css?dacff3b0",
-    "main.js": "/pokedex.github.iomain.chunk.js?dacff3b0",
-    "3.chunk.css?dacff3b0": "/pokedex.github.io3.chunk.css?dacff3b0",
-    "3.chunk.js?dacff3b0": "/pokedex.github.io3.chunk.js?dacff3b0",
-    "3.chunk.js.LICENSE?dacff3b0": "/pokedex.github.io3.chunk.js.LICENSE?dacff3b0",
+    "runtime-main.chunk.js": "/pokedex.github.ioruntime-main.chunk.js?3a1458f1",
+    "main.css": "/pokedex.github.iomain.chunk.css?3a1458f1",
+    "main.js": "/pokedex.github.iomain.chunk.js?3a1458f1",
+    "2.chunk.css?3a1458f1": "/pokedex.github.io2.chunk.css?3a1458f1",
+    "2.chunk.js?3a1458f1": "/pokedex.github.io2.chunk.js?3a1458f1",
+    "2.chunk.js.LICENSE?3a1458f1": "/pokedex.github.io2.chunk.js.LICENSE?3a1458f1",
     "index.html": "/pokedex.github.ioindex.html"
   },
   "entrypoints": [
-    "runtime-main.chunk.js?dacff3b0",
-    "3.chunk.css?dacff3b0",
-    "3.chunk.js?dacff3b0",
-    "main.chunk.css?dacff3b0",
-    "main.chunk.js?dacff3b0"
+    "runtime-main.chunk.js?3a1458f1",
+    "2.chunk.css?3a1458f1",
+    "2.chunk.js?3a1458f1",
+    "main.chunk.css?3a1458f1",
+    "main.chunk.js?3a1458f1"
   ]
 }
