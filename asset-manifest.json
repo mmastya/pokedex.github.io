@@ -1,0 +1,18 @@
+{
+  "files": {
+    "runtime-main.chunk.js": "/pokedexpage.github.ioruntime-main.chunk.js?2608f717",
+    "main.css": "/pokedexpage.github.iomain.chunk.css?2608f717",
+    "main.js": "/pokedexpage.github.iomain.chunk.js?2608f717",
+    "2.chunk.css?2608f717": "/pokedexpage.github.io2.chunk.css?2608f717",
+    "2.chunk.js?2608f717": "/pokedexpage.github.io2.chunk.js?2608f717",
+    "2.chunk.js.LICENSE?2608f717": "/pokedexpage.github.io2.chunk.js.LICENSE?2608f717",
+    "index.html": "/pokedexpage.github.ioindex.html"
+  },
+  "entrypoints": [
+    "runtime-main.chunk.js?2608f717",
+    "2.chunk.css?2608f717",
+    "2.chunk.js?2608f717",
+    "main.chunk.css?2608f717",
+    "main.chunk.js?2608f717"
+  ]
+}
